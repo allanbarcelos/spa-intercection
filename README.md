@@ -1,1 +1,1 @@
-# SPA Intercetion
+# SPA Intersection
